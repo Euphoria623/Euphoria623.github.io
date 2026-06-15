@@ -1,11 +1,3 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 I'm a second-year master's student from the School of Electronic Information and Communications, Huazhong University of Science and Technology. My research interests lie in communication engineering, mobile communications and 5G MIMO.
 
